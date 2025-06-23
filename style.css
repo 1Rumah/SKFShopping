@@ -400,7 +400,7 @@ input {
 	border: 2px solid #eceff8;
 	height: 45px;
 	box-shadow: none;
-	padding-left: 10px;
+	padding-left: 5px;
 	font-size: 14px;
 	color: #626262;
 	width: 100%;
@@ -410,7 +410,7 @@ select {
 	background: #eceff8;
 	border: 2px solid #eceff8;
 	height: 45px;
-	padding-left: 10px;
+	padding-left: 5px;
 	box-shadow: none;
 	font-size: 14px;
 	color: #626262;
@@ -418,7 +418,7 @@ select {
 option {
 	background: #fff;
 	border: 0px solid #626262;
-	padding-left: 10px;
+	padding-left: 5px;
 	font-size: 14px;
 }
 input:focus {
@@ -430,7 +430,7 @@ textarea {
 	resize: vertical;
 	background: #eceff8;
 	border: 2px solid #eceff8;
-	padding: 10px;
+	padding: 5px;
 	width: 100%;
 	font-size: 14px;
 }
@@ -444,7 +444,7 @@ textarea:focus {
 	font-size: 13px;
 }
 .input-group.divcenter.input-group .form-control {
-	padding-left: 0px
+	padding-left: 5px
 }
 /*----------------------------------------*/
 /*  1.8 Background Variation Set
@@ -766,18 +766,18 @@ textarea:focus {
 /*----------------------------------------*/
 /*Product Active Box Shadow*/
 .product-active {
-	padding: 0 10px;
+	padding: 0 5px;
 	overflow: hidden;
 }
 .product-active:hover {
 	overflow: visible;
 }
 .product-area .owl-carousel .owl-item {
-	padding: 25px 0;
+	padding: 5px 0;
 }
 .product-area .owl-carousel .owl-stage-outer {
 	margin: 0 0 -100px;
-	padding: 0 0 85px;
+	padding: 0 0 60px;
 	position: relative;
 }
 /*Special Product Active Box Shadow*/
@@ -794,13 +794,13 @@ textarea:focus {
 }
 .special-product-active .product-image {
 	position: relative;
-	padding: 0 10px;
+	padding: 0 5px;
 }
 .special-product-active .product_desc {
 	margin: 15px 15px 0;
 }
 .special-product-active .add-actions {
-	padding: 0 15px;
+	padding: 0 5px;
 	transition: all 0.3s ease-in-out;
 }
 /*Shop Product Area Box Shadow*/
@@ -812,7 +812,7 @@ textarea:focus {
 	margin: 15px 15px 0;
 }
 .shop-product-area .add-actions {
-	padding: 0 15px;
+	padding: 0 5px;
 }
 /*----------------------------------------*/
 /* 	1.12 Li's Mobile Menu Customization 
@@ -942,12 +942,12 @@ textarea:focus {
 	line-height: 44px;
 	position: relative;
 	border-top: 1px solid #eeeeee;
-	padding: 0 40px 0 20px;
+	padding: 0 20px 0 10px;
 	width: 100%;
 }
  .mobile-menu .mean-bar .mean-nav > ul li a:hover {
      color: #202020;
-     padding-left: 25px;
+     padding-left: 10px;
 }
 .mobile-menu .mean-bar .mean-nav > ul li a.mean-expand {
 	border: 1px solid #eeeeee;
